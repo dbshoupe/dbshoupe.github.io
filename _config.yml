@@ -58,11 +58,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Brandon Shoupe"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Shoupe's Notes"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
