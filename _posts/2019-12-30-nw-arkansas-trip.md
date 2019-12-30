@@ -6,6 +6,8 @@ categories:
 tags:
   - Community Development
 ---
+Recently, I travelled with a group to the Bentonville/Fayetteville area in northwest Arkansas. The purpose of the trip was to research the area’s embracement of the arts and how the movement correlates to their momentous economic growth and stellar education systems. The trip was very transformational as I learned about how the arts impact quality of life and also about how to be successful as a rural community in middle-America. Here are my immediate takeaways:
+
 ![Dothan Area Leaders in Bentonville, AK. Outside of Same Waltons 5-10 Store][grouppic]
 
 Recently, I travelled with a group to the Bentonville/Fayetteville area in northwest Arkansas. The purpose of the trip was to research the area’s embracement of the arts and how the movement correlates to their momentous economic growth and stellar education systems. The trip was very transformational as I learned about how the arts impact quality of life and also about how to be successful as a rural community in middle-America. Here are my immediate takeaways:
