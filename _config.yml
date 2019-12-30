@@ -62,32 +62,29 @@ plugins:
 author:
   name   : "Brandon Shoupe"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "E-commerce entrepreneur, County Commissioner, Husband, & Dad. I work on things that matter."
   links:
     - label: "Shoupe's Notes"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.brandonshoupe.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/dbshoupe"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/brandon_shoupe_/"
 
 footer:
   links:
+    - label: "Shoupe's Notes"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.brandonshoupe.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/dbshoupe"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/brandon_shoupe_/"
 
 defaults:
   # _posts
