@@ -10,8 +10,6 @@ Recently, I travelled with a group to the Bentonville/Fayetteville area in north
 
 ![Dothan Area Leaders in Bentonville, AK. Outside of Same Waltons 5-10 Store][grouppic]
 
-Recently, I travelled with a group to the Bentonville/Fayetteville area in northwest Arkansas. The purpose of the trip was to research the area’s embracement of the arts and how the movement correlates to their momentous economic growth and stellar education systems. The trip was very transformational as I learned about how the arts impact quality of life and also about how to be successful as a rural community in middle-America. Here are my immediate takeaways:
-
 **1 Americans are fleeing the high cost-of-living, over-regulation, and soul-crushing traffic of major cities.**
 
 They are moving to smaller towns with vibrant downtown environments, great school systems, and lower costs-of-living, yet with amenities similar to those of larger cities. Additionally, they desire communities that are welcoming to outsiders and those with a dynamic environment for entrepreneurs.
