@@ -46,4 +46,4 @@ These things may be hard; they may take strenuous effort, but they are not impos
 
 I invite every citizen to begin having these conversations. Discuss what amenities we should invest in and how they will make our area attractive to outsiders and better for the people already here. A journey of a thousand miles begins with a single step. Let's take that first step!
 
-[grouppic]: /images/arkansa-group-shot.jpg
+[grouppic]: /assets/images/arkansa-group-shot.jpg
