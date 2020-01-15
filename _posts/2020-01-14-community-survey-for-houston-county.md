@@ -12,4 +12,6 @@ Your opinion is vital to helping us determine the county's direction. Past surve
 
 We look forward to you sharing your opinions with us again this year. Thank you in advance for your time!
 
+[Begin Community Survey](https://s.surveyplanet.com/QmcPCMXf)
+
 -Brandon
