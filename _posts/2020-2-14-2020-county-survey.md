@@ -36,7 +36,7 @@ Bring in better and higher-paying jobs.
 
 ---
 
-![Opinion on Question][education-systems]
+![Opinion on Question][education]
 
 Improve the local education systems.
 
